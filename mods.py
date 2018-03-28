@@ -13,9 +13,12 @@ class Moderators():
 		self.author = author
 		self.comment = comment
 
-		
-
-	def delete_comment(self, comments)
+	def delete_comment(self,author, comments):
+		self.commment = comment
+		self.author = author
+		c = comment comments[author][commment]
+		del c
+		return comments
 
 	def login(self, timestamp,):
 		self.timestamp = datetime
